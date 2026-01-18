@@ -10,7 +10,7 @@ mavenPublishing {
 
     signAllPublications()
 
-    coordinates("io.github.ulbyy", "circle-countdown-timer", "1.0.0")
+    coordinates("io.github.ulbyy", "circle-countdown-timer", "1.0.1")
 
     pom {
         name.set("Circle Countdown Timer")
